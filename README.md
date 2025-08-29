@@ -22,5 +22,10 @@
 
 ![Example Image](Figures/Pairwiserelationships.png).
 
+# Relationship between PM2.5 trend and temp trend
+
+![Example Image](Figures/RelationshipbetweenPm2.5trendandtemptrend.png).
+
+
 
 

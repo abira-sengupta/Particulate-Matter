@@ -8,4 +8,4 @@
 
 # PM2.5 max at timestep 129
 
-![Example Image](Figures/Figure1.png).
+![Example Image](Figures/Figure-1.png).

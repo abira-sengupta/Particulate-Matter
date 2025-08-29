@@ -14,3 +14,7 @@
 
 ![Example Image](Figures/MarginaldistributionPM2.5andTemp.png).
 
+# Joint Distribution of PM2.5 and Temperature
+
+![Example Image](Figures/jointdistribution.png).
+

@@ -9,3 +9,8 @@
 # PM2.5 max at timestep 129
 
 ![Example Image](Figures/Figure-1.png).
+
+# Marginal Distribution of PM2.5 and Temperature
+
+![Example Image](Figures/Marginal distribution PM2.5 and Temp.png).
+

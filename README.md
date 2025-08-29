@@ -18,3 +18,9 @@
 
 ![Example Image](Figures/jointdistribution.png).
 
+# Pairwise relationships of PM2.5 and Temperature
+
+![Example Image](Figures/Pairwiserelationships.png).
+
+
+

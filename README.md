@@ -26,6 +26,10 @@
 
 ![Example Image](Figures/RelationshipbetweenPm2.5trendandtemptrend.png).
 
+# Spatial distribution of PM2.5 at Timestep 36
+
+![Example Image](Figures/SpatialdistributionofPM2.5atTimestep36.png).
+
 
 
 

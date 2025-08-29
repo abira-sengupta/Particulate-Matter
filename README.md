@@ -12,5 +12,5 @@
 
 # Marginal Distribution of PM2.5 and Temperature
 
-![Example Image](Figures/Marginal distribution PM2.5 and Temp.png).
+![Example Image](Figures/MarginaldistributionPM2.5andTemp.png).
 
